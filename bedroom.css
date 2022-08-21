@@ -1,0 +1,16 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#title{
+    font-size: 24px;
+}
+
+#status{
+    font-size: 20px;
+}
+
+canvas{
+    border-radius: 20px;
+}
